@@ -1,16 +1,14 @@
-## Hi there 👋
-
-<!--
-**IRoxaUwUI/IRoxaUwUI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Gmail IRoxaUwUI@Gmail.com  
+Twitter https://x.com/IRoxaUwUI  
+Telegram https://t.me/IRoxaUwUI  
+Instagram https://www.instagram.com/iroxauwui/  
+Youtube https://www.youtube.com/@IUwURoxaI  
+WPlace https://wplace.live/?lat=-56.74959044755665&lng=-57.716806971972666&zoom=14.711084970601085  
+Devianart https://www.deviantart.com/iroxauwui  
+Pinterest https://br.pinterest.com/IRoxaUwUI/  
+Spotify https://open.spotify.com/user/carlos_hen.?si=d96422173f5b437d  
+Steam https://steamcommunity.com/id/IRoxinhaUwUI/  
+Discord 724974644272168982  
+Kick https://kick.com/iroxauwui  
+Twitch https://www.twitch.tv/iroxauwui  
+Github https://github.com/IRoxaUwUI  
