@@ -12,5 +12,5 @@ WPlace https://wplace.live/?lat=-56.74959044755665&lng=-57.716806971972666&zoom=
 [![Kick](https://img.shields.io/badge/Kick-53FC18?style=for-the-badge&logo=kick&logoColor=black)](724974644272168982)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/iroxauwui)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IRoxaUwUI)
-[![Wplace](https://img.shields.io/badge/Wplace-000000?style=for-the-badge&logo=googlemaps&logoColor=white)]([https://wplace.live](https://wplace.live/?lat=-56.74959044755665&lng=-57.716806971972666&zoom=14.711084970601085))
+[![Wplace](https://img.shields.io/badge/Wplace-000000?style=for-the-badge&logo=googlemaps&logoColor=white)](https://wplace.live/?lat=-56.74959044755665&lng=-57.716806971972666&zoom=14.711084970601085)
 
