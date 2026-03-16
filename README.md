@@ -1,14 +1,16 @@
-Gmail IRoxaUwUI@Gmail.com  
-Twitter https://x.com/IRoxaUwUI  
-Telegram https://t.me/IRoxaUwUI  
-Instagram https://www.instagram.com/iroxauwui/  
-Youtube https://www.youtube.com/@IUwURoxaI  
-WPlace https://wplace.live/?lat=-56.74959044755665&lng=-57.716806971972666&zoom=14.711084970601085  
-Devianart https://www.deviantart.com/iroxauwui  
-Pinterest https://br.pinterest.com/IRoxaUwUI/  
-Spotify https://open.spotify.com/user/carlos_hen.?si=d96422173f5b437d  
-Steam https://steamcommunity.com/id/IRoxinhaUwUI/  
-Discord 724974644272168982  
-Kick https://kick.com/iroxauwui  
-Twitch https://www.twitch.tv/iroxauwui  
-Github https://github.com/IRoxaUwUI  
+WPlace https://wplace.live/?lat=-56.74959044755665&lng=-57.716806971972666&zoom=14.711084970601085    
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:IRoxaUwUI@Gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/IRoxaUwUI)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/IRoxaUwUI)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iroxauwui/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@IUwURoxaI)
+[![Pinterest](https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white)](https://br.pinterest.com/IRoxaUwUI/)
+[![DeviantArt](https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white)](https://www.deviantart.com/iroxauwui)
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/carlos_hen.?si=d96422173f5b437d)
+[![Steam](https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/IRoxinhaUwUI/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](724974644272168982)
+[![Kick](https://img.shields.io/badge/Kick-53FC18?style=for-the-badge&logo=kick&logoColor=black)](724974644272168982)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/iroxauwui)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IRoxaUwUI)
+[![Wplace](https://img.shields.io/badge/Wplace-000000?style=for-the-badge&logo=googlemaps&logoColor=white)]([https://wplace.live](https://wplace.live/?lat=-56.74959044755665&lng=-57.716806971972666&zoom=14.711084970601085))
+
