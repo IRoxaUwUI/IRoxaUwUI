@@ -1,4 +1,4 @@
-[![Godzilla GIF](https://img.shields.io/badge/View-Godzilla_GIF-black?style=for-the-badge&logo=github)](https://media.tenor.com/6W6KJ1GQF0YAAAAC/godzilla.gif)
+![godila](https://media1.tenor.com/m/GYN8AgO9O2cAAAAC/godzilla-slide.gif)  
 
 [![DeviantArt](https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white)](https://www.deviantart.com/iroxauwui)  
 [![Pinterest](https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white)](https://br.pinterest.com/IRoxaUwUI/)  
